@@ -1,0 +1,672 @@
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.
+
+The Java Virtual Machine (JVM) is an abstract computing machine that enables a computer to run a Java program. 
+The JVM has two primary functions: to allow Java programs to run on any device or operating system (known as the "Write once, run anywhere" principle), 
+and to manage and optimize program memory.
+
+JVM architecture includes Class Loader, Memory Area (Method Area, Heap, Stack, PC Registers, Native Method Stack), Execution Engine (Interpreter, JIT Compiler), and Native Interface.
+
+Garbage Collection (GC) in JVM automatically frees up memory by destroying objects that are no longer in use to ensure optimal use of memory.
+
+JVMs are available for many hardware and software platforms. The JVM is detailed by a specification that formally describes what is required in a JVM implementation.The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+The Java Virtual Machine (JVM) is a specification that provides a runtime environment in which Java bytecode can be executed. 
+The JVM is platform-independent, meaning that the same Java program can run on different operating systems without modification.
+
+It performs the following key functions:
+1. Loads code
+2. Verifies code
+3. Executes code
+4. Provides runtime environment
+
+Memory Areas in JVM:
+- Method Area
+- Heap
+- Stack
+- PC Registers
+- Native Method Stack
+
+Class Loader Subsystem loads, links, and initializes classes and interfaces.
+Execution Engine executes the instructions contained in the methods of the class.
+
+The Just-In-Time (JIT) compiler is a part of the JVM that improves performance by compiling bytecodes into native machine code at runtime.
+
+Garbage Collection is the process of reclaiming the runtime unused memory automatically. It helps to optimize the performance of the application.
+s
