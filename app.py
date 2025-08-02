@@ -110,14 +110,17 @@ def auth_portal():
             new_user = st.text_input("User", key="reg_user", max_chars=16, help="Choose username")
         with col2:
             new_pass = st.text_input("Pass", type="password", key="reg_pass", max_chars=16, help="Choose password")           
-        if st.button("Register"):
-            users = load_credentials()
-            if new_user in users:
-                st.warning("⚠️ Username already exists.")
-            else:
-                users[new_user] = new_pass
-                save_credentials(users)
-                st.success("✅ Registration successful. Please login.")
+       if st.button("Login"):
+           users = load_credentials()
+           if not username or not password:
+               st.warning("⚠️ Please enter both username and password.")
+           elif username in users and users[username] == password:
+               st.session_state.auth = True
+               st.session_state.username = username
+               st.rerun()
+           else:
+               st.error("❌ Invalid credentials")
+
 
 def chat_page():
     st.sidebar.header(f"📂 Welcome {st.session_state.username}")
@@ -168,4 +171,5 @@ def chat_page():
             st.markdown(msg["content"])
 
 # Route user
+
 chat_page() if st.session_state.auth else auth_portal()
