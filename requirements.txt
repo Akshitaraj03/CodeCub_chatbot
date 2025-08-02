@@ -1,0 +1,12 @@
+streamlit
+PyMuPDF
+pandas
+Pillow
+tiktoken
+openai
+langchain
+faiss-cpu
+sentence-transformers
+langchain-community
+langchainhub
+langchain-groq
